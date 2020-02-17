@@ -1,0 +1,11 @@
+HTTP/1.1 404 Not Found
+Date: Mon, 17 Feb 2020 16:53:08 GMT
+Content-Type: application/json
+Content-Length: 21
+Connection: keep-alive
+Set-Cookie: __cfduid=da31167753b86018e42ea236d12217db81581958387; expires=Wed, 18-Mar-20 16:53:07 GMT; path=/; domain=.registry.yarnpkg.com; HttpOnly; SameSite=Lax
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 566946919b3dc961-HAN
+
+{"error":"Not found"}
